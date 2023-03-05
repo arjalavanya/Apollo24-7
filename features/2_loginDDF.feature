@@ -4,6 +4,6 @@ Feature: Apollo Login
     When user clicks on later button
     When User click on login button
     Then It navigate to Mobile Number window
-    And User enters mobile number"number"
+    And User enters mobile number number
     Then It shows error message
 
